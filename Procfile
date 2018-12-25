@@ -1,0 +1,1 @@
+bot: java -jar build/libs/hmb.tbot.ugk.jar
